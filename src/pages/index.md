@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Miracles are gifts that God gives out liberally
+    title: Miracles are gifts
     subtitle: Discover the upside down world of Grace
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
