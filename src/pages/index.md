@@ -5,7 +5,7 @@ sections:
     title: Miracles are gifts
     subtitle: Discover the upside down world of Grace
     content: |
-      Recieve your Miracle as you re-learn reality.
+      Recieve your Miracle
     actions:
       - label: Try Free
         url: /pricing
