@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Miracles are gifts
-    subtitle: Discover the upside down world of Grace
+    subtitle: Discover the upside down
     content: |
       Recieve your Miracle
     actions:
