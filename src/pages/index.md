@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Need a miracle but don't know how to get one?
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      Discover the upside down world of the "Kingdom of God" where all things
+      are possible
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
