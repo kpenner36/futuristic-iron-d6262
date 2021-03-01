@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Need a Miracle but don't know how to get one?
+    title: Need a miracle but don't know how to get one?
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
