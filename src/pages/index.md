@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Need a miracle but don't know how to get one?
+    title: Miracles are gifts God wants to give you
     subtitle: >-
       Discover the upside down world of the "Kingdom of God" where all things
       are possible
