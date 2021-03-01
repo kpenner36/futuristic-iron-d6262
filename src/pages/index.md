@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Miracles are gifts God wants to give you
-    subtitle: >-
-      Discover the upside down world of the "Kingdom of God" where all things
-      are possible
+    subtitle: Discover the upside down world of God's Love
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
