@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Miracle Healing
+    title: Miracles
     subtitle: Discover the God of Miracles
     content: |
       Recieve your Miracle
