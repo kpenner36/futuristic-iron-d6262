@@ -35,8 +35,7 @@ sections:
     subtitle: God wants you resourced for the purpose you were created
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
+      - image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
         image_alt: Netlify logo
