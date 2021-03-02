@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Miracles
+    title: Receive Miracles
     subtitle: God wants you well
     content: >
       #### 3 John 1:2
