@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Receive Your Miracle
-    subtitle: God wants you well!
+    subtitle: No matter your Faith or Belief System... God wants you well!
     content: >
       #### 3 John 1:2
 
