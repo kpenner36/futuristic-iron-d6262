@@ -16,7 +16,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image_alt: Blind
+    image_alt: Jesus Heals Blind Lady in Winnipeg
     media_position: left
     media_width: fifty
     align: left
