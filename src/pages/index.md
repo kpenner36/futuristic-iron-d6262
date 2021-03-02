@@ -27,7 +27,7 @@ sections:
       allow="accelerometer; autoplay; clipboard-write; encrypted-media;
       gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
-    title: Finacial Healing
+    title: Financial Healing
     subtitle: >-
       God wants you both healed and resourced for the purpose you were created
       for
