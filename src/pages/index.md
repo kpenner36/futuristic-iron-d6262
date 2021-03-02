@@ -27,7 +27,7 @@ sections:
       allow="accelerometer; autoplay; clipboard-write; encrypted-media;
       gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
-    title: Image Grid
+    title: Finacial Healing
     subtitle: Grid Section Example
     align: center
     grid_items:
