@@ -53,6 +53,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: false
+    background_image: images/retreat-organizer.jpg
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
