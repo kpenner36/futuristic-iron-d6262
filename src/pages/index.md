@@ -5,7 +5,7 @@ sections:
     title: Miracles
     subtitle: God wants you well
     content: >
-      ## 3 John 1:2
+      #### 3 John 1:2
 
 
       Beloved, I pray that in every way you may prosper and enjoy good health,
