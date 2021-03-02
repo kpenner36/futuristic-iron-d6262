@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Miracles are gifts
+    title: Miracle gifts
     subtitle: Discover a Good God
     content: |
       Recieve your Miracle
