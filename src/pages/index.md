@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Miracles
     subtitle: God wants you well
-    content: |
-      Recieve your Miracle
+    content: "**3 John 1:2\_**\n\nBeloved, I pray that in every way you may prosper and enjoy good health, as your soul also prospers.\n\n"
     actions:
       - label: Try Free
         url: /pricing
