@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Miracles
-    subtitle: Discover the God of Miracles
+    subtitle: God wants you well
     content: |
       Recieve your Miracle
     actions:
