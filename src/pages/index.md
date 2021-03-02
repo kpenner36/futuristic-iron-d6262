@@ -28,9 +28,7 @@ sections:
       gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     title: Financial Healing
-    subtitle: >-
-      God wants you both healed and resourced for the purpose you were created
-      for
+    subtitle: God wants you resourced for the purpose you were created
     align: center
     grid_items:
       - image: images/logo-1.svg
